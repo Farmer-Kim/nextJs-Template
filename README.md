@@ -6,7 +6,7 @@
 ## 설치
 
 이 프로젝트를 설치하려면 다음 단계를 따르세요.
-
+```
 1. 저장소를 클론합니다.
    ```bash
    git clone https://github.com/yourusername/yourproject.git
