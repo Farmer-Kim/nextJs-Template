@@ -1,5 +1,5 @@
 ```markdown
-# 프로젝트 제목
+# nextJs-Template
 
 간단한 프로젝트에 대한 소개 및 사용법 설명
 
