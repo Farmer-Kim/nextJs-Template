@@ -1,5 +1,3 @@
-여기 간단한 예시 Git README.md 파일의 내용입니다:
-
 ```markdown
 # 프로젝트 제목
 
