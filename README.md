@@ -9,7 +9,7 @@
 ```
 1. 저장소를 클론합니다.
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   [git clone https://github.com/yourusername/yourproject.git](https://github.com/Farmer-Kim/nextJs-Template.git)
    ```
 
 2. 디렉토리로 이동합니다.
